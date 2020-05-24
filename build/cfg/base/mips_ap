@@ -19,4 +19,4 @@ X_PORTBUILD_PLATFORM="mips"
 X_DEFAULT_PACKAGELIST="dropbear dnsmasq lua bsdtools"
 
 # Example using cross toolchain for base system
-TARGET_CROSS_TOOLCHAIN="mips-gcc"
+TARGET_CROSS_TOOLCHAIN="mips-gcc9"
