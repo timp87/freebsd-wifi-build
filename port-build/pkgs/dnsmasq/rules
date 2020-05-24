@@ -1,7 +1,7 @@
 PKGNAME=dnsmasq
-PKGVERSION=2.80
+PKGVERSION=2.81
 PKGREVISION=1
-PKGDISTFILE=http://www.thekelleys.org.uk/dnsmasq/dnsmasq-2.80.tar.xz
-PKGDISTFILE_SUM_SHA512=58e56beb553fc41311e5dc16d8b0eb3b6801e2bdfbcd0e7a6659703f08960b6ad10d48b0b14a4d727636faf35483e01597cff2ae49e7fe9fa9e214f437b1c068
-PKGWORKSUBDIR=dnsmasq-2.80
-PKG_PRE_BUILD_PATCHLIST="patch-Makefile patch-src_tftp.c"
+PKGDISTFILE=http://www.thekelleys.org.uk/dnsmasq/dnsmasq-2.81.tar.xz
+PKGDISTFILE_SUM_SHA512=85550c9782fef9b0710d0e233523ed1fe26e877a8bc53fcea3f7cf1fb17c3a79c46f284a99dab2bdaf6a107ea3f1a71cec476ab6d4e1b936da6591aaef42c88e
+PKGWORKSUBDIR=dnsmasq-2.81
+PKG_PRE_BUILD_PATCHLIST="patch-Makefile"
